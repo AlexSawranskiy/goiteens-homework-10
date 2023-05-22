@@ -1,0 +1,10 @@
+img {
+    height: 200px;
+    background-color: #f0f0f0;
+    margin-bottom: 30px;
+    border-radius: 6px;
+}
+
+.feed {
+    list-style: none;
+}
